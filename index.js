@@ -1,4 +1,8 @@
 const hello = () => {
     console.log("hello wolrd")
-    gjf
+
+}
+
+const hello2 = () => {
+    console.log("hello 2")
 }
